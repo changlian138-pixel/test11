@@ -1,0 +1,109 @@
+{
+  "groups": [
+    {
+      "name": "热门应用",
+      "list": [
+        {
+          "text": "YouTube",
+          "icon": "https://ts3.tc.mm.bing.net/th/id/OIP-C.Tl9zioQNnURKYgptUPTOEgHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "link": "https://www.youtube.com",
+          "needConnected": true
+        },
+        {
+          "text": "Telegram",
+          "icon": "https://img0.baidu.com/it/u=2672200346,2278618147&fm=253&fmt=auto?w=834&h=800",
+          "link": "https://telegram.org",
+          "needConnected": true
+        },
+        {
+          "text": "推特",
+          "icon": "https://img1.mopxz.com/mopxz/imgfile/20250221/21103704lmwt.png",
+          "link": "https://X.com",
+          "needConnected": true
+        },
+        {
+          "text": "ChatGPT",
+          "icon": "https://ts1.tc.mm.bing.net/th/id/OIP-C.c3dqc2V1VTpmsFHHnXCd-wHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "link": "https://openai.com",
+          "needConnected": true
+        },
+        {
+          "text": "TikTok",
+          "icon": "https://pngimg.com/uploads/tiktok/tiktok_PNG1.png",
+          "link": "http://tiktok.com",
+          "needConnected": true
+        },
+        {
+          "text": "Netflix",
+          "icon": "https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/11/netflix_logo-1.jpg?q=70&fit=contain&w=420&dpr=1",
+          "link": "https://www.netflix.com",
+          "needConnected": true
+        }
+      ]
+    },
+    {
+      "name": "娱乐",
+      "list": [
+        {
+          "text": "Pornhub",
+          "icon": "https://res.178321.xyz:9443/sdnproject-resources/landing-page-res/img/Pornhub.png",
+          "link": "ttps://cn.pornhub.com",
+          "needConnected": true
+        },
+        {
+          "text": "91porn",
+          "icon": "https://ts1.tc.mm.bing.net/th/id/R-C.10891b312b7a7006e60a6fd77b494e89?rik=VPQjDuKq%2f3tapQ&riu=http%3a%2f%2fpic.y8l.com%2fup%2f2023-12%2f202312279250770.png&ehk=bHizmyW5irFSWOELkjE9XUy5FHTXdcC86SCQvIfAjWc%3d&risl=&pid=ImgRaw&r=0",
+          "link": "https://91porn.com",
+          "needConnected": true
+        },
+        {
+          "text": "Porn Dude",
+          "icon": "https://gd-hbimg.huaban.com/fef01b453e06cfc743a9c9379f66143753f470c64a9e-4WVQFg_fw658",
+          "link": "https://theporndude.com",
+          "needConnected": true
+        }
+      ]
+    },
+    {
+      "name": "币圈",
+      "list": [
+        {
+          "text": "币安",
+          "icon": "https://ts2.tc.mm.bing.net/th/id/OIP-C.rzfvJbLX88dRkTW4xpFdRgHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "link": "https://accounts.binance.com/zh-CN",
+          "needConnected": true
+        },
+        {
+          "text": "欧易",
+          "icon": "https://ts1.tc.mm.bing.net/th/id/R-C.38027b9ac5dcf040bb14d2f82cfa8b72?rik=8AXun2LKJGl%2fkg&riu=http%3a%2f%2fimg.278wan.com%2fuploads%2fallimg%2f220817%2f51-220QG60045.png&ehk=GaiRTbL52%2bAzOMQeDX9AFU%2bfEtZ%2fa0QQBV8Qvguhe4U%3d&risl=&pid=ImgRaw&r=0",
+          "link": "https://www.okx.com/zh-hans",
+          "needConnected": true
+        },
+        {
+          "text": "芝麻开门",
+          "icon": "https://szcp-1306345583.cos.ap-guangzhou.myqcloud.com/uploads/2023/04/GT.png",
+          "link": "https://www.gate.com/zh",
+          "needConnected": true
+        },
+        {
+          "text": "TP钱包",
+          "icon": "https://ts3.tc.mm.bing.net/th/id/OIP-C.Ho-WqbVmDe7VaUTvjqgW_QAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "link": "https://www.tokenpocket.pro",
+          "needConnected": true
+        },
+        {
+          "text": "欧易钱包",
+          "icon": "https://ts1.tc.mm.bing.net/th/id/R-C.38027b9ac5dcf040bb14d2f82cfa8b72?rik=8AXun2LKJGl%2fkg&riu=http%3a%2f%2fimg.278wan.com%2fuploads%2fallimg%2f220817%2f51-220QG60045.png&ehk=GaiRTbL52%2bAzOMQeDX9AFU%2bfEtZ%2fa0QQBV8Qvguhe4U%3d&risl=&pid=ImgRaw&r=0",
+          "link": "https://web3.okx.com/zh-hans",
+          "needConnected": true
+        },
+        {
+          "text": "币安钱包",
+          "icon": "https://ts2.tc.mm.bing.net/th/id/OIP-C.rzfvJbLX88dRkTW4xpFdRgHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "link": "https://www.binance.com/zh-CN/binancewallet",
+          "needConnected": true
+        }
+      ]
+    }
+  ]
+}
