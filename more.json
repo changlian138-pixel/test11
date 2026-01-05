@@ -2,7 +2,6 @@
   "groups": [
     {
       "name": "热门应用",
-      "collapsed": false,
       "list": [
         {
           "text": "YouTube",
@@ -44,7 +43,6 @@
     },
     {
       "name": "娱乐",
-      "collapsed": true,
       "list": [
         {
           "text": "Pornhub",
@@ -68,7 +66,6 @@
     },
     {
       "name": "币圈",
-      "collapsed": true,
       "list": [
         {
           "text": "币安",
@@ -87,19 +84,19 @@
           "icon": "https://szcp-1306345583.cos.ap-guangzhou.myqcloud.com/uploads/2023/04/GT.png",
           "link": "https://www.gate.com/zh",
           "needConnected": true
-        }
+        },
         {
           "text": "TP钱包",
           "icon": "https://ts3.tc.mm.bing.net/th/id/OIP-C.Ho-WqbVmDe7VaUTvjqgW_QAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
           "link": "https://www.tokenpocket.pro",
           "needConnected": true
-        }
+        },
         {
           "text": "欧易钱包",
           "icon": "https://ts1.tc.mm.bing.net/th/id/R-C.38027b9ac5dcf040bb14d2f82cfa8b72?rik=8AXun2LKJGl%2fkg&riu=http%3a%2f%2fimg.278wan.com%2fuploads%2fallimg%2f220817%2f51-220QG60045.png&ehk=GaiRTbL52%2bAzOMQeDX9AFU%2bfEtZ%2fa0QQBV8Qvguhe4U%3d&risl=&pid=ImgRaw&r=0",
           "link": "https://web3.okx.com/zh-hans",
           "needConnected": true
-        }
+        },
         {
           "text": "币安钱包",
           "icon": "https://ts2.tc.mm.bing.net/th/id/OIP-C.rzfvJbLX88dRkTW4xpFdRgHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
