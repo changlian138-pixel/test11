@@ -68,7 +68,7 @@
     },
     {
       "name": "币圈",
-      "collapsed": true,
+      "collapsed": false,
       "list": [
         {
           "text": "币安",
@@ -98,13 +98,13 @@
           "text": "欧易钱包",
           "icon": "https://ts1.tc.mm.bing.net/th/id/R-C.38027b9ac5dcf040bb14d2f82cfa8b72?rik=8AXun2LKJGl%2fkg&riu=http%3a%2f%2fimg.278wan.com%2fuploads%2fallimg%2f220817%2f51-220QG60045.png&ehk=GaiRTbL52%2bAzOMQeDX9AFU%2bfEtZ%2fa0QQBV8Qvguhe4U%3d&risl=&pid=ImgRaw&r=0",
           "link": "https://web3.okx.com/zh-hans",
-          "needConnected": false
+          "needConnected": true
         }
         {
           "text": "币安钱包",
           "icon": "https://ts2.tc.mm.bing.net/th/id/OIP-C.rzfvJbLX88dRkTW4xpFdRgHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
           "link": "https://www.binance.com/zh-CN/binancewallet",
-          "needConnected": false
+          "needConnected": true
         }
       ]
     }
